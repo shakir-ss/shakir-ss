@@ -3,6 +3,7 @@
 - 🌱 I’m currently searching for a job.
 - 💞️ I’m looking to collaborate on full stack developement.
 - 📫 Drop a mail if you can help at shakirshaban.ss@gmail.com
+- 👀 Find my resume at https://drive.google.com/file/d/1C-DZJLgKLtBf8lR_UolzbRKx271eWqiO/view?usp=sharing
 
 <!---
 shakir-ss/shakir-ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
