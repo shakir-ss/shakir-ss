@@ -7,7 +7,7 @@
   3. Java dev : Java ,OOPs , Spring boot and Spring (RESTAPIs)  ,Spring data jpa and Hibernate (DAO layer), jsp, MySQL (Relational DB), ElasticSearch (NoSQL DB), maven or gradle (build tools) , Eclipse and InteliJ ,NetBeans (IDEAs) .
   4. FrontEnd : HTML , CSS and JavaScript (Basic), VueJs and QuasarJs (FrameWorks) , Jira(Project Management tools), Postman(APIs).
 - 📫 Drop an email if I can help : shakirshaban.ss@gmail.com
-- 👀 Find my resume at https://drive.google.com/file/d/1C-DZJLgKLtBf8lR_UolzbRKx271eWqiO/view?usp=sharing
+- 👀 Find my resume at https://drive.google.com/file/d/1wK-eNymt55E_wPQlLxJgcYhxMI4_uMIe/view?usp=drive_link
 
 <!---
 shakir-ss/shakir-ss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
